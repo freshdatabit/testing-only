@@ -7,7 +7,7 @@
   },
   "style": {
     "scheme": "css-modules",
-    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
   },
   "images": {
     "scheme": "files",
@@ -71,6 +71,6 @@
     ]
   },
   "wrapPagesWithGlobalContexts": true,
-  "cliVersion": "0.1.262",
-  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.262/dist/plasmic.schema.json"
+  "cliVersion": "0.1.265",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.265/dist/plasmic.schema.json"
 }
